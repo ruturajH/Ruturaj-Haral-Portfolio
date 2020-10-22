@@ -18,11 +18,11 @@ Data Science Portfolio - Ruturaj Haral
 * Cleaned the data using python and performed Expolatory data analysis using Jupyter notebook.
 * Compared different category origin such as family, games, business, tools, education, and many more to find out that most number of applications category are related family   applications.
 * Performed number of different operations such as group by, two way table for analysis purpose and plotted different graphs using matplotlib library of python.
-* Category of Applications
+
 ![category of apps](https://user-images.githubusercontent.com/53853127/96901893-d6058000-1461-11eb-98fa-d4ea5f11e8bf.png)
-* Content Ratings of Applications
+
 ![content rating](https://user-images.githubusercontent.com/53853127/96901890-d6058000-1461-11eb-94f3-8363beae10b0.png)
-* Rating of Applications
+
 ![rating of apps](https://user-images.githubusercontent.com/53853127/96901892-d6058000-1461-11eb-8b76-361eb22bf018.png)
 
 
