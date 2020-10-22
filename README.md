@@ -8,7 +8,7 @@ Data Science Portfolio - Ruturaj Haral
 *	Created dummy variables for Job description column to find out which data skills such as python, excel, AWS, and spark are expected and got a Mean Absolute error of $10,500.
 * Salary with respect to State
 ![salary by state](https://user-images.githubusercontent.com/53853127/89361473-5bfeff80-d699-11ea-9cf9-8b02568f42de.png)
-Number of Jobs per sector
+
 ![Category](https://user-images.githubusercontent.com/53853127/89361476-5c979600-d699-11ea-90c0-00df5c7bcfe0.png)
 
 
@@ -25,11 +25,11 @@ Number of Jobs per sector
 ![rating of apps](https://user-images.githubusercontent.com/53853127/96901892-d6058000-1461-11eb-8b76-361eb22bf018.png)
 
 
-# [Project 3: Netflix Analysis](https://github.com/ruturajH/Netflix-Analysis)
+# [Project 3: Netflix Analysis](https://public.tableau.com/profile/ruturaj.haral#!/vizhome/NetflixAnalysis_15921011072160/NetflixAnalysis)
 *	Created a dashboard highlighting Content produced by Netflix all around the world. Interpreted the ratings of Tv shows and movies and found out that most of the content produced by Netflix is TV-MA(Mature Audience only).
 *	Applied a filter to a single worksheet which when clicked on a single country automatically populates other graphs
 *	Plotted Bar graph to find out different types of content and line chart to find out why the Netflix content soared.
-
+* Netflix Analysis Dashboard
 ![netflix](https://user-images.githubusercontent.com/53853127/96901481-54155700-1461-11eb-9ba8-826dbfbd8a06.png)
 
 # [Project 4: Sales Analysis(Python-Pandas)](https://github.com/ruturajH/Sales_Analysis_Pandas)
@@ -42,7 +42,7 @@ Number of Jobs per sector
 ![Salary by month](https://user-images.githubusercontent.com/53853127/96901318-1a445080-1461-11eb-90cd-af9e55d7ee85.png)
 
 
-# [Project 5: Airline and Bus Routes](https://github.com/ruturajH/tableau_airline_routes)
+# [Project 5: Airline and Bus Routes](https://public.tableau.com/profile/ruturaj.haral#!/vizhome/AirlineandBusRoutes/Dashboard1)
 * Plotted different graphs such as geographic map to see start and end point of each airline and bus route available in the CSV.
 * Used tableau features of latitude and longitude to map those results into dynamic dashboard.
 
