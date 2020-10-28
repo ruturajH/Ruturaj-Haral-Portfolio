@@ -30,8 +30,8 @@ Data Science Portfolio - Ruturaj Haral
 *	Created a dashboard highlighting Content produced by Netflix all around the world. Interpreted the ratings of Tv shows and movies and found out that most of the content produced by Netflix is TV-MA(Mature Audience only).
 *	Applied a filter to a single worksheet which when clicked on a single country automatically populates other graphs
 *	Plotted Bar graph to find out different types of content and line chart to find out why the Netflix content soared.
-* Netflix Analysis Dashboard
-![netflix](https://user-images.githubusercontent.com/53853127/96901481-54155700-1461-11eb-9ba8-826dbfbd8a06.png)
+
+Netflix Analysis Dashboard![Screenshot (438)](https://user-images.githubusercontent.com/53853127/97477191-ae149180-1925-11eb-9d2a-a19a4f8a648d.png)
 
 # [Project 4: Sales Analysis(Python-Pandas)](https://github.com/ruturajH/Sales_Analysis_Pandas)
 *	Used different pandas and matplotlib methods where concatenated multiple csv’s together to create a data frame
