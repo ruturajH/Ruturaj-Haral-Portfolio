@@ -43,7 +43,26 @@ Data Science Portfolio - Ruturaj Haral
 ![Salary by month](https://user-images.githubusercontent.com/53853127/96901318-1a445080-1461-11eb-90cd-af9e55d7ee85.png)
 
 
-# [Project 5: Airline and Bus Routes](https://public.tableau.com/profile/ruturaj.haral#!/vizhome/AirlineandBusRoutes/Dashboard1)
+# [Project 5 : Malnutrition Trends and Analysis] (https://public.tableau.com/profile/ruturaj.haral#!/vizhome/UnicefMalnutrition_16039054030880/Dashboard4)
+
+Having a diet which is both sufficient in terms of energy (caloric) requirements and diverse to meet additional nutritional needs is essential for good health. Undernourishment, especially in children and mothers, is a leading risk factor for death and other health consequences.
+
+The purpose is to study about the Malnutrition and its dependent variables, as always it’s a global challenge. 
+We will be representing the following content:
+1) World wide Malnutrition trend
+2) Highest affected continents 
+3) Tableau is the best solution to analyze this type of data. So the visuals used are as: Heat map, Tree map, Horizontal Bar Graph, Line Graph. 
+
+ Business Questions that I aim to solve with this dashboard
+1) Which parts of the world has the highest malnutrition rate?
+2) What are the possible reasons for malnutrition?
+3) Does the poverty line affects the malnutrition ?
+4) Why was rural area affected the most?
+5) Which year has impacted the most by malnutrition and why?
+
+![Screenshot (437)](https://user-images.githubusercontent.com/53853127/97471624-4d825600-191f-11eb-8e0f-649817fd7334.png)
+
+# [Project 6: Airline and Bus Routes](https://public.tableau.com/profile/ruturaj.haral#!/vizhome/AirlineandBusRoutes/Dashboard1)
 * Plotted different graphs such as geographic map to see start and end point of each airline and bus route available in the CSV.
 * Used tableau features of latitude and longitude to map those results into dynamic dashboard.
 
